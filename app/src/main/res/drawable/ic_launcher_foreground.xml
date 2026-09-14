@@ -1,0 +1,44 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Drop Shadow / Depth -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M54,34 L82,47 L54,60 L26,47 Z" />
+
+    <!-- Academic Cap Diamond (Mortarboard top) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,32 L82,45 L54,58 L26,45 Z" />
+
+    <!-- Cap skullcap / base -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M37,51 L37,63 C37,68 44,72 54,72 C64,72 71,68 71,63 L71,51 L54,59 Z" />
+
+    <!-- Golden Tassel & Band -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,45 L51,46 L46,55 L44,69 C44,71 47,71 47,69 L48,56 L54,46 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M43,67 H48 V74 H43 Z" />
+
+    <!-- Open Book / Syllabus Badge underneath -->
+    <!-- Left page -->
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M53,75 C45,74 38,76 33,78 L33,85 C38,83 45,81 53,82 Z" />
+    <!-- Right page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M55,75 C63,74 70,76 75,78 L75,85 C70,83 63,81 55,82 Z" />
+
+    <!-- Small Golden Star of Excellence -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,23 L55.5,27.5 L60,27.5 L56.5,30 L58,34.5 L54,32 L50,34.5 L51.5,30 L48,27.5 L52.5,27.5 Z" />
+</vector>
+

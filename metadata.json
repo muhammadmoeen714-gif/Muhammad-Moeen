@@ -1,0 +1,7 @@
+{
+  "name": "Pak Entry Prep",
+  "description": "Pakistani university admission entry test preparation with top teacher video lectures, syllabus guides, and automatic admission test date alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
